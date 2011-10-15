@@ -15,7 +15,7 @@
 </BASE_PARAMETERS>
 <INSTRUMENT>
 <INFO>
-<string name="name"></string>
+<string name="name">Strings</string>
 <string name="author"></string>
 <string name="comments"></string>
 <par name="type" value="0" />
@@ -104,7 +104,7 @@
 <par name="S_val" value="64" />
 <par name="R_val" value="64" />
 <POINT id="0">
-<par name="val" value="77" />
+<par name="val" value="62" />
 </POINT>
 <POINT id="1">
 <par name="dt" value="52" />
